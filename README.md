@@ -24,22 +24,8 @@ Tooltip Functionality :-
 Hover Interaction: When hovering over a button, the tooltip associated with that button should be displayed.
 Positioning: The tooltip's position is determined by the "position" prop provided. Available options are "top", "bottom", "right", and "left".
 
-Project Structure :- 
-The project structure is organized as follows:-
-
-react-tooltip/
-  ├── public/
-  │   ├── index.html
-  │   └── ...
-  ├── src/
-  │   ├── App.js
-  │   ├── Tooltip.js
-  │   └── ...
-  ├── package.json
-  ├── README.md
-  └── ...
-
 Usage :-
+
 Locate the button with the tooltip that you'd like to interact with.
 Hover over the button to trigger the tooltip's appearance.
 The tooltip will be displayed based on the specified position ("top", "bottom", "right", or "left").
