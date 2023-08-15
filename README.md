@@ -4,6 +4,8 @@ React Tooltip Project :-
 
 Welcome to the React Tooltip project! This project focuses on creating a tooltip component using React that displays when a button is hovered over. The position of the tooltip can be adjusted using the "position" prop, with options including "top", "bottom", "right", and "left".
 
+The tooltip project works on technologies like html, css and javascript, and the required React node modules .
+
 Problem Statement :-
 
 The main objective of this project is to build a functional tooltip component within a React application. When a button is hovered over, the tooltip should appear at the specified position, based on the "position" prop provided.
