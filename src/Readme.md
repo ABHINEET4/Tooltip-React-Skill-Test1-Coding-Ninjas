@@ -15,7 +15,7 @@ Tooltip Component: The heart of the project is the tooltip component, which is i
 
 Instructions :-
 
-Clone this repository to your local machine. Install the necessary dependencies using the command npm install. Start the development server using npm start. Open your web browser and navigate to http://localhost:3000 to see the application in action.
+Clone this repository to your local machine. Install the necessary dependencies using the command npm install. Start the development server using npm start. Open your web browser and navigate https://lively-semolina-ebe4bf.netlify.app/ to see the application in action.
 
 Tooltip Functionality :-
 
