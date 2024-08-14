@@ -1,4 +1,4 @@
-# Tooltip-React-Skill-Test1-Coding-Ninjas
+# Tooltip-React
 
 Hosted Website Link :- https://lively-semolina-ebe4bf.netlify.app/
 
